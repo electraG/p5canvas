@@ -13,7 +13,7 @@ function draw() {
     // draw the Iris for the eye
     ellipse(350, 275, 25);
     // draw the center of the eye
-    fill('black');
+    fill('blue');
     ellipse(350, 275, 12.5);
     // for the right eye
     // draw the base ellipse for the eye, the sclera/“white of the eye”
@@ -22,6 +22,6 @@ function draw() {
     // draw the Iris for the eye
     ellipse(450, 275, 25);
     // draw the center of the eye
-    fill('black');
+    fill('blue');
     ellipse(450, 275, 12.5);
 }

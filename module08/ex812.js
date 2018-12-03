@@ -5,5 +5,5 @@ function setup() {
 	background('#31bc33');
 }
 function draw() {
-
+	createCanvas(100,100);
 }
