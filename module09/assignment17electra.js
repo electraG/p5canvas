@@ -3,7 +3,9 @@ let theta = 0;
 function setup() {
   createCanvas(windowWidth, windowHeight);
   background(50);
-  
+  console.log(hour());
+  console.log(minutes());
+  console.log(seconds());
 }
 function draw() {
   push();
